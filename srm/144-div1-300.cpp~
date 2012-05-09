@@ -1,0 +1,11 @@
+
+
+
+class BinaryCode
+{
+public:
+  vector<string> decode(string message)
+  {
+    
+  }
+}

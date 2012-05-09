@@ -1,0 +1,10 @@
+
+
+class HowEasy
+{
+public:
+  static int pointVal(std::string s)
+  {
+    
+  }
+}

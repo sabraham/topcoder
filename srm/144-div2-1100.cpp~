@@ -1,0 +1,11 @@
+
+
+class PowerOutage
+{
+public:
+  int estimateTimeOut(vector<int> from_junction, vector<int> to_junction,
+		      vector<int> duct_length)
+  {
+
+  }
+};
